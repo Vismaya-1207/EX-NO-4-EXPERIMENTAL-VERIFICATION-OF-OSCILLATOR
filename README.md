@@ -1,12 +1,15 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
-4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
- ##AIM:
+
+4. ## **EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
+	
+ ## AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
+ ## THEORY:
+ 
+ ## RC PHASE SHIFT OSCILLATOR
+ 
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
@@ -48,6 +51,9 @@ Therefore, Choose R = 3.3k
 To prevent loading,
 R1   10 R
 R1 =10 R = 33 k. Rf = 29R1=1MΩ
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4e8dc3b2-4794-4266-bae3-59d210d80515" />
+
+
 
 ---
 ## PROCEDURE
@@ -57,16 +63,10 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8e233b96-7fa4-4983-aa59-637e71b9d7d7" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1600" height="1477" alt="image" src="https://github.com/user-attachments/assets/db5e2476-43ed-47d6-80a8-50aea690dd1c" />
 
 
 ---
@@ -113,6 +113,9 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/78ac11ab-eca5-41ae-ba2a-1d67ee6e54c9" />
+
 ---
 
 ## PROCEDURE
@@ -124,19 +127,16 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/50a8762d-1506-4950-adb4-fb2d7206d6ce" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1600" height="1121" alt="image" src="https://github.com/user-attachments/assets/bb1a44c5-968a-4bd4-8e8c-f88a3417931f" />
 
 
 ---
 ## RESULT:
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
+<img width="2160" height="2054" alt="image" src="https://github.com/user-attachments/assets/033dbbea-7c65-48e6-b993-09a448cad536" />
+
